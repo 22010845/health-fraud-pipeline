@@ -1,0 +1,12 @@
+# Virtual Environment
+.venv/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+
+# Local Data
+data/
+
+# Environment configurations
+.env
